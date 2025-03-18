@@ -12,12 +12,19 @@ A console-based task management application built with .NET that helps users man
 - Organized display of task information including ID, title, description, and status
 
 ## Project Structure
+
 task-management/
+
 ├── Models/
+
 │   └── TaskItem.cs
+
 ├── Services/
+
 │   └── TaskService.cs
+
 ├── Program.cs
+
 └── README.md
 
 ## Getting Started

@@ -16,10 +16,15 @@ A console-based task management application built with .NET that helps users man
 task-management/
 
 ├── Models/
+
 │   └── TaskItem.cs
+
 ├── Services/
+
 │   └── TaskService.cs
+
 ├── Program.cs
+
 └── README.md
 
 ## Getting Started
